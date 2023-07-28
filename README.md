@@ -1,4 +1,4 @@
-# Wrapping Your Brain Around LangChain
+# 🧠 Wrapping Your Brain Around LangChain 🦜🔗
 
 This is a repository that is used in conjunction with a [talk](./talk.md) called "Wrapping Your Brain Around Langchain". It is a beginner friendly code-along talk that explores the super powerful large language model application framework [LangChain](https://langchain.com). 
 
